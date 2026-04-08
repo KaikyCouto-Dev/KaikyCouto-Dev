@@ -18,7 +18,7 @@ Languages: Python, C++, WebDev (HTML, CSS, JavaScript), and basic Database manag
 
 Current Focus: Python applications and Back-end development with databases, with future plans to integrate Java into my systems.
 
-📞 Contact:
+📞 Contact: <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaky-couto)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaikycouto_dev)
@@ -42,7 +42,7 @@ Sou desenvolvedor de jogos e sistemas, focado em sistemas práticos com inovaç�
   - Linguagens: Python, C++, WebDev (HTML, CSS, JAVASCRIPT), DataBase básico (SQL Server, SQLite e MySQL).
   - Foco atual: Aplicações em Python e desenvolvimento Back-end com databases e futuramente implementação de Java em meus sistemas.
 
-📞 Contatos:
+📞 Contatos: <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaky-couto)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaikycouto_dev)
