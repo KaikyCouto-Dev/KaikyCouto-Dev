@@ -6,17 +6,14 @@ I'm a game and systems developer focused on practical systems with innovative so
 
 ⚙️ What I do:
 
-Game Developer: Acted as Lead Technical Writter for the game WaterWorld, in addition to developing small-scale projects for learning purposes.
-
-Web Developer: Creating clean and modern Front-end interfaces while studying Back-end to implement additional functionalities.
-
-SAD Student: Systems Analysis and Development student, focused on building applications using Python and C-based languages.
+  - Game Developer: Acted as Lead Technical Writter for the game WaterWorld, in addition to developing small-scale projects for learning purposes.
+  - Web Developer: Creating clean and modern Front-end interfaces while studying Back-end to implement additional functionalities.
+  - SAD Student: Systems Analysis and Development student, focused on building applications using Python and C-based languages.
 
 💻 Technologies:
 
-Languages: Python, C++, WebDev (HTML, CSS, JavaScript), and basic Database management (SQL Server, SQLite, and MySQL).
-
-Current Focus: Python applications and Back-end development with databases, with future plans to integrate Java into my systems.
+  - Languages: Python, C++, WebDev (HTML, CSS, JavaScript), and basic Database management (SQL Server, SQLite, and MySQL).
+  - Current Focus: Python applications and Back-end development with databases, with future plans to integrate Java into my systems.
 
 📞 Contact: <br> <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaky-couto)
